@@ -1,0 +1,23 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+                      "type": "Feature",
+                      "geometry": {
+                          "type": "Point",
+                          "coordinates": [
+                              15.240202998134247,
+                              38.21895355851344
+                          ]
+                      },
+                      "properties": {
+                          "phoneFormatted": "",
+                          "phone": "",
+                          "address": "IL MONDO SENZA GLUTINE",
+                          "city": "VIA CAVOUR, 28 - 98057 MILAZZO (ME)",
+                          "country": "United States",
+                          "crossStreet": "at 15th St NW",
+                          "postalCode": "20005",
+                          "state": "D.C."
+                      }
+                  }]
+  }
